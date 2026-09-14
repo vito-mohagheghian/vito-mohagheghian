@@ -52,19 +52,6 @@ Self-taught since my teens, I love mastering cutting-edge tech and teaming up wi
 
 </div>
 
-<h2>Open Source Projects I Own 🐙</h2>
-
-<div>
-<a href="https://github.com/mohammad-mghn/wins-11"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-mghn&repo=wins-11&theme=github_dark&hide_border=true&show_icons=true&bg_color=00000000"></a> <a href="https://github.com/mohammad-mghn/dev-tab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammad-mghn&repo=dev-tab&theme=github_dark&hide_border=true&"></a>
-</div>
-
-<h2>Open Source Projects I've Contributed To 🐙</h2>
-
-<div>
-<a href="https://github.com/widgetify-app/widgetify-extension"><img src="https://github-readme-stats.vercel.app/api/pin/?username=widgetify-app&repo=widgetify-extension&theme=github_dark&hide_border=true"></a>
-<a href="https://github.com/AmruthPillai/Reactive-Resume"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmruthPillai&repo=Reactive-Resume&theme=github_dark&hide_border=true&name=widgetify&"></a>
-</div>
-
 <h2>Support Me 🫠</h2>
  
 <div style="display:flex;">
